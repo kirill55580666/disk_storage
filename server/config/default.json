@@ -1,0 +1,7 @@
+{
+  "serverPort" : 7000,
+  "dbUrl": "mongodb+srv://root:root@cluster0.uzaqsvh.mongodb.net/?retryWrites=true&w=majority",
+  "secretKey": "mern-secret-key",
+  "filePath": "C:\\webstormSSD_projects\\MERN-disk\\server\\files",
+  "staticPath": "C:\\webstormSSD_projects\\MERN-disk\\server\\static"
+}
